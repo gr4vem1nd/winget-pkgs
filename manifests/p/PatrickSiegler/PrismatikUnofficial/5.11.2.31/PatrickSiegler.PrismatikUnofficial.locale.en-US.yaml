@@ -8,5 +8,12 @@ Publisher: Patrick Siegler
 PackageName: Prismatik (unofficial)
 License: GNU General Public License v3.0
 ShortDescription: A controller for usb driven LED backlights (an unofficial fork)
+Moniker: prismatik-psieg
+Tags:
+- prismatik
+- lightpack
+- backlight
+- controller
+- unofficial
 ManifestType: defaultLocale
 ManifestVersion: 1.1.0
